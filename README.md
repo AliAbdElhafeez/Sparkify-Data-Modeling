@@ -50,7 +50,7 @@ time: timestamps of records in songplays broken down into specific units
 4. **test.ipynb**: Conduct Sanity Tests to check for errors in creation, insertion and dropping data.
 5. **etl.ipynb**: Load a single JSON file from the data into the tables.
 6. **etl.py**: Load the full JSON file from the data into the tables.
-7. **ERD postgres.png**: data schema.
+7. **ERD postgres.png**: star schema.
 
 ## How to run the Python scripts
 
