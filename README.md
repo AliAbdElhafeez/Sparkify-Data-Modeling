@@ -6,6 +6,7 @@
 This is the first project in Udacity's Data Engineering Nanodegree. This data modeling project consists of two parts:
 
 a) We'd like to create a Postgres database with tables designed to optimize queries on song play analysis. My role in this part is to create a database schema and ETL pipeline for this analysis.
+
 b) We'd like to create an Apache Cassandra database which can create queries on song play data to answer questions. My role in this part is to create a database for this analysis based on the queries obtained from the questions mentioned below.
 
 # First part 
