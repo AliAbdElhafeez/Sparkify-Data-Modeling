@@ -42,8 +42,6 @@ artists: artists in the music database
 
 time: timestamps of records in songplays broken down into specific units
 
-![](ERD postgres.png)
-
 ## Files in the repository
 
 1. **data**: contains all JSON files.
